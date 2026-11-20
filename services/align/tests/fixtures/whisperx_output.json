@@ -1,0 +1,209 @@
+{
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 3.975,
+      "text": " The city wants to build a new bridge over the river.",
+      "words": [
+        {
+          "word": "The",
+          "start": 0.5,
+          "end": 0.748,
+          "score": 0.9
+        },
+        {
+          "word": "city",
+          "start": 0.748,
+          "end": 1.079,
+          "score": 0.9
+        },
+        {
+          "word": "wants",
+          "start": 1.079,
+          "end": 1.493,
+          "score": 0.9
+        },
+        {
+          "word": "to",
+          "start": 1.493,
+          "end": 1.658,
+          "score": 0.9
+        },
+        {
+          "word": "build",
+          "start": 1.658,
+          "end": 2.072,
+          "score": 0.9
+        },
+        {
+          "word": "a",
+          "start": 2.072,
+          "end": 2.155,
+          "score": 0.9
+        },
+        {
+          "word": "new",
+          "start": 2.155,
+          "end": 2.403,
+          "score": 0.9
+        },
+        {
+          "word": "bridge",
+          "start": 2.403,
+          "end": 2.899,
+          "score": 0.9
+        },
+        {
+          "word": "over",
+          "start": 2.899,
+          "end": 3.23,
+          "score": 0.9
+        },
+        {
+          "word": "the",
+          "start": 3.23,
+          "end": 3.478,
+          "score": 0.9
+        },
+        {
+          "word": "river.",
+          "start": 3.478,
+          "end": 3.975,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "start": 4.175,
+      "end": 4.275,
+      "text": " Uh.",
+      "words": []
+    },
+    {
+      "start": 4.675,
+      "end": 8.21,
+      "text": " It will cost about 2,000 dollars per meter.",
+      "words": [
+        {
+          "word": "It",
+          "start": 4.675,
+          "end": 4.871,
+          "score": 0.9
+        },
+        {
+          "word": "will",
+          "start": 4.871,
+          "end": 5.264,
+          "score": 0.9
+        },
+        {
+          "word": "cost",
+          "start": 5.264,
+          "end": 5.657,
+          "score": 0.9
+        },
+        {
+          "word": "about",
+          "start": 5.657,
+          "end": 6.148,
+          "score": 0.9
+        },
+        {
+          "word": "2,000",
+          "score": 0.9
+        },
+        {
+          "word": "dollars",
+          "start": 6.639,
+          "end": 7.326,
+          "score": 0.9
+        },
+        {
+          "word": "per",
+          "start": 7.326,
+          "end": 7.621,
+          "score": 0.9
+        },
+        {
+          "word": "meter.",
+          "start": 7.621,
+          "end": 8.21,
+          "score": 0.9
+        }
+      ]
+    },
+    {
+      "start": 8.91,
+      "end": 12.518,
+      "text": " Most people say they are going to use it every day.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 8.91,
+          "end": 9.262,
+          "score": 0.9
+        },
+        {
+          "word": "people",
+          "start": 9.262,
+          "end": 9.79,
+          "score": 0.9
+        },
+        {
+          "word": "say",
+          "start": 9.79,
+          "end": 10.054,
+          "score": 0.9
+        },
+        {
+          "word": "they",
+          "start": 10.054,
+          "end": 10.406,
+          "score": 0.9
+        },
+        {
+          "word": "are",
+          "start": 10.406,
+          "end": 10.67,
+          "score": 0.9
+        },
+        {
+          "word": "going",
+          "start": 10.67,
+          "end": 11.11,
+          "score": 0.9
+        },
+        {
+          "word": "to",
+          "start": 11.11,
+          "end": 11.286,
+          "score": 0.9
+        },
+        {
+          "word": "use",
+          "start": 11.286,
+          "end": 11.55,
+          "score": 0.9
+        },
+        {
+          "word": "it",
+          "start": 11.55,
+          "end": 11.726,
+          "score": 0.9
+        },
+        {
+          "word": "every",
+          "start": 11.726,
+          "end": 12.166,
+          "score": 0.9
+        },
+        {
+          "word": "day.",
+          "start": 12.166,
+          "end": 12.518,
+          "score": 0.9
+        }
+      ]
+    }
+  ]
+}
